@@ -11,7 +11,7 @@ Descarga de audio en formato MP3: Permite a los usuarios descargar el audio de u
 ## Instalación y Uso
 Clonar el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone https://github.com/Benjamin-mne/youtube-audio-converted.git
 ```
 Instalar las dependencias:
 ```bash
