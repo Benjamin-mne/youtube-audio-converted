@@ -30,5 +30,5 @@ npm dev
 ## Aprende más con mi Tutorial Paso a Paso
 Si deseas comprender cómo construimos esta API desde cero, te invito a leer el artículo detallado en mi blog donde desglosamos cada paso del proceso de desarrollo.
 
-[¡Ver el artículo en mi blog!]()
+[¡Ver el artículo en mi blog!](https://benjamin-delgado-portfolio.netlify.app/posts/youtube-to-mp3-backend/)
 
